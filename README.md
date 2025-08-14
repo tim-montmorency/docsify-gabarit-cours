@@ -9,6 +9,12 @@ via Github Actions
 ![page-action](https://i.ibb.co/2gkwH9L/page-action.png)
 
 
+## submodule
+
+```sh
+git submodule sync --recursive && git submodule update --init --remote --recursive
+```
+
 ## Personalisation
 
 ### index.html
