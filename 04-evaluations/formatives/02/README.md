@@ -4,7 +4,6 @@
 
 ## Description
 
-
 ### Forme de l'évaluation
 
 * [ ] Individuel
