@@ -1,4 +1,4 @@
-# TP1 <!-- varexp:begin BLOC1 -->NOM DU BLOC 1<!-- varexp:end --> 
+# TP1 <!-- varexp:begin BLOC1 -->NOM DU BLOC 1<!-- varexp:end -->
 
 ## Description
 

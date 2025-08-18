@@ -1,10 +1,13 @@
-# EVF TP 3 - <!-- varexp:begin BLOC3 -->NOM DU BLOC 3<!-- varexp:end --> 
+# EVF TP 3 - <!-- varexp:begin BLOC3 -->NOM DU BLOC 3<!-- varexp:end -->
 
-[Séance 10](../../../01-deroulement/10/)
-
-
+ <!-- varexp:begin SEANCE_EVF_3 -->
+[S7](../../01-deroulement/03/)
+<!-- varexp:end -->
 ## Description
 
+<!-- varexp:begin DESCRIPTION_EVS_3  -->
+Ceci est la description de l'activité évaluée #3
+<!-- varexp:end -->
 
 ### Forme de l'évaluation
 
