@@ -1,4 +1,4 @@
-# EVS TP1 : Scène réactive
+# EVS TP1 : <!-- varexp:begin BLOC1 -->NOM DU BLOC 1<!-- varexp:end --> 
 
 [Séance 4](../../../01-deroulement/04/)
 

@@ -1,4 +1,4 @@
-# EVS TP2 : Personnage et environnement
+# EVS TP2 : <!-- varexp:begin BLOC2 -->NOM DU BLOC 2<!-- varexp:end --> 
 
 [Séance 8](../../../01-deroulement/08/)
 

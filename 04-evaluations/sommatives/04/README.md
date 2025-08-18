@@ -1,4 +1,4 @@
-# EVS 4 projet : Intégration des apprentissages
+# EVS 4 projet : <!-- varexp:begin BLOC4 -->NOM DU BLOC 4<!-- varexp:end --> 
 
 [Séance 15](../../../01-deroulement/15/)
 

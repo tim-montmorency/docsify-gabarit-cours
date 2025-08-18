@@ -1,4 +1,4 @@
-# EVF TP 1 : 
+# EVF TP 1 : <!-- varexp:begin BLOC1 -->NOM DU BLOC 1<!-- varexp:end --> 
 
 [Séance 3](../../../01-deroulement/03/)
 

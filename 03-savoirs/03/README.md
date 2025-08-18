@@ -1,4 +1,4 @@
-#  Savoirs 3
+#  Savoirs : <!-- varexp:begin BLOC3 -->NOM DU BLOC 3<!-- varexp:end --> 
 
 
 <!-- start-replace-subnav depth=1 -->

@@ -1,4 +1,4 @@
-# EVF 4 - Intégration des apprentissages
+# EVF 4 - <!-- varexp:begin BLOC4 -->NOM DU BLOC 4<!-- varexp:end --> 
 
 [Séance 14](../../../01-deroulement/14/)
 

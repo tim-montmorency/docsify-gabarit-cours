@@ -1,4 +1,4 @@
-#  Intégrations des savoirs
+#  Savoir : <!-- varexp:begin BLOC4 -->NOM DU BLOC 4<!-- varexp:end --> 
 
 <!-- start-replace-subnav depth=1 -->
 
