@@ -95,7 +95,7 @@ les élément start-replace-subnav et end-replace-subnav  lorsqu'ils sont dans d
     * [S12 : ](/01-deroulement/12/)
     * [S13 : ](/01-deroulement/13/)
     * [S14 :](/01-deroulement/14/)
-    * [S15 : 2025/12/08](/01-deroulement/15/)
+    * [S15 :](/01-deroulement/15/)
 * [Activités ](/02-activites/)
     * [TP1 ](/02-activites/01/)
     * [TP2](/02-activites/02/)

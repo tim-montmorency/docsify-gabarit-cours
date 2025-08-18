@@ -15,5 +15,5 @@
 * [S12 : ](/01-deroulement/12/)
 * [S13 : ](/01-deroulement/13/)
 * [S14 :](/01-deroulement/14/)
-* [S15 : 2025/12/08](/01-deroulement/15/)
+* [S15 :](/01-deroulement/15/)
 <!-- end-replace-subnav -->

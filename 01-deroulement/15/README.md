@@ -1,4 +1,4 @@
-# S15 : 2025/12/08
+# S15 :
 
 ## À préparer avant la classe
 
