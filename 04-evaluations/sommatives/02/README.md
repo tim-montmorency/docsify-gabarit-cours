@@ -2,7 +2,7 @@
 
 [Séance 8](../../../01-deroulement/08/)
 
-## (podération)
+## (Pondération)
 
 ### Description
 

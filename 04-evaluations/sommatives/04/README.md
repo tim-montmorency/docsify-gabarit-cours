@@ -2,7 +2,7 @@
 
 [Séance 15](../../../01-deroulement/15/)
 
-## (podération)
+## (Pondération)
 
 ### Description
 
