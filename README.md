@@ -1,4 +1,4 @@
-# docsify-gabarit-cours
+# <!-- varexp:begin COURS  -->Docsify Gabarit Cours<!-- varexp:end -->
 
 Docsify modele de publication via actions
 
@@ -82,7 +82,7 @@ les élément start-replace-subnav et end-replace-subnav  lorsqu'ils sont dans d
     * [S8 : <!-- varexp:begin S8 -->2025/10/20<!-- varexp:end -->](/01-deroulement/08/)
     * [S9 : <!-- varexp:begin S9 -->2025/10/27<!-- varexp:end -->](/01-deroulement/09/)
     * [S10 : <!-- varexp:begin S10 -->2025/11/03<!-- varexp:end -->](/01-deroulement/10/)
-    * [S11 :<!-- varexp:begin S11 -->2025/11/10<!-- varexp:end -->](/01-deroulement/11/)
+    * [S11 : <!-- varexp:begin S11 -->2025/11/10<!-- varexp:end -->](/01-deroulement/11/)
     * [S12 : <!-- varexp:begin S12 -->2025/11/17<!-- varexp:end -->](/01-deroulement/12/)
     * [S13 : <!-- varexp:begin S13 -->2025/11/24<!-- varexp:end -->](/01-deroulement/13/)
     * [S14 :<!-- varexp:begin S14 -->2025/12/01<!-- varexp:end -->](/01-deroulement/14/)
